@@ -7,11 +7,7 @@ import androidx.lifecycle.ViewModelProvider;
 
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
-import android.widget.TextView;
 
-import com.example.mvc_mvp_mvvm_all_in_one_app.DivPresenter;
-import com.example.mvc_mvp_mvvm_all_in_one_app.PlusController;
 import com.example.mvc_mvp_mvvm_all_in_one_app.R;
 import com.example.mvc_mvp_mvvm_all_in_one_app.databinding.ActivityMainBinding;
 import com.example.mvc_mvp_mvvm_all_in_one_app.pojo.DataBase;

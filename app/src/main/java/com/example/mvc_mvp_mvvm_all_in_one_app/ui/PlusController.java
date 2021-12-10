@@ -1,4 +1,4 @@
-package com.example.mvc_mvp_mvvm_all_in_one_app;
+package com.example.mvc_mvp_mvvm_all_in_one_app.ui;
 
 
 import com.example.mvc_mvp_mvvm_all_in_one_app.model.NumberModel;
